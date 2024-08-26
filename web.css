@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400..900;1,400..900&family=Oswald:wght@200..700&display=swap');
+h1{
+      color: rgba(143, 13, 4, 0.925);
+      text-decoration: underline;
+      text-align: center;
+      font-size: 60px;
+    
+}
+
+body{
+
+    background-image:url("abstract-technology-background-hi-tech-communication-concept-innovation-background-vector-illustration-free-photo.jpg") ;
+    background-size: cover;
+    background-repeat:repeat ;
+    background-attachment: fixed;
+}  
+div {
+    color: aqua;
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+   font-style: normal;
+   font-size: 40px;
+}
